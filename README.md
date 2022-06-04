@@ -8,8 +8,7 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 ---
 ### Deliverable 1: Add Tectonic Plate Data
 
-- In this Deliverable the tectonic plate data is added as a second layer group and tectonic plate data is added to the overlay object.
-- The d3.json() callback is working and does the following: 
+- In this Deliverable the tectonic plate data is added as a second layer group and tectonic plate data is added to the overlay object.The d3.json() callback is working and does the following: 
   -The tectonic plate data is passed to the geoJSON() layer
   -The geoJSON() layer adds color and width to the tectonic plate lines
   -The tectonic layer group variable is added to the map
