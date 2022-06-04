@@ -12,6 +12,10 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 - Leaflet.js
 - geoJSON 
 
+- Data Sources: 
+  - Real-time earthquake data from https://www.usgs.gov/natural-hazards/earthquake-hazards/data-tools
+  - Tectonic plate data from https://github.com/fraxen/tectonicplates
+
 ### Deliverable 1: Add Tectonic Plate Data
 
 ### Deliverable 2: Add Major Earthquake Data
