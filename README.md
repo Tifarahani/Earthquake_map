@@ -13,7 +13,7 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 
 
 <p align="center">  
-<img src="https://github.com/Tifarahani/Earthquake_map/blob/main/Resources/Images/Map_data_1.png"  width="80%" height="80%">
+<img src="https://github.com/Tifarahani/Earthquake_map/blob/main/Resources/Images/Map_data_1.png"  width="70%" height="70%">
 </p>
 <p align="center">  
 <i>Figure 1:Tectonic Plate Data</i>
@@ -21,7 +21,7 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 
 
 <p align="center">  
-<img src="https://github.com/Tifarahani/Earthquake_map/blob/main/Resources/Images/Map_data_4_Earthquake.png"  width="80%" height="80%">
+<img src="https://github.com/Tifarahani/Earthquake_map/blob/main/Resources/Images/Map_data_4_Earthquake.png"  width="70%" height="70%">
 </p>
 <p align="center">  
 <i>Figure 2: Dark eathquake map</i>
@@ -30,7 +30,7 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 ### Deliverable 2: Add Major Earthquake Data
 
 <p align="center">  
-<img src="https://github.com/Tifarahani/Earthquake_map/blob/main/Resources/Images/Map_data_2.png"  width="80%" height="80%">
+<img src="https://github.com/Tifarahani/Earthquake_map/blob/main/Resources/Images/Map_data_2.png"  width="70%" height="70%">
 </p>
 <p align="center">  
 <i>Figure 3: Major Earthquake Data</i>
@@ -38,10 +38,10 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 
 ### Deliverable 3: Add an Additional Map
 <p align="center">  
-<img src="https://github.com/Tifarahani/Earthquake_map/blob/main/Resources/Images/Map_data_3.png"  width="80%" height="80%">
+<img src="https://github.com/Tifarahani/Earthquake_map/blob/main/Resources/Images/Map_data_3.png"  width="70%" height="70%">
 </p>
 <p align="center">  
-<i>Figure 4: OTU_ID bubble_chart</i>
+<i>Figure 4: Additional Map</i>
 </p>
 
 
