@@ -16,7 +16,7 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 <img src="https://github.com/Tifarahani/Earthquake_map/blob/main/Resources/Images/Map_data_1.png"  width="80%" height="80%">
 </p>
 <p align="center">  
-<i>Figure 1: OTU_ID bubble_chart</i>
+<i>Figure 1:Tectonic Plate Data</i>
 </p>
 
 
