@@ -43,11 +43,7 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 <p align="center">  
 <i>Figure 4: Additional Map</i>
 </p>
-
-
-
-
-
+---
 ### Resources
 - JavaScript
 - Virtual Studio Code 
