@@ -9,7 +9,7 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 ### Deliverable 1: Add Tectonic Plate Data
 
 
-- In this Deliverable the tectonic plate data is added as a second layer group and tectonic plate data is added to the overlay object.The d3.json() callback is working and does the following
+- In this Deliverable the tectonic plate data is added as a second layer group and tectonic plate data is added to the overlay object.The d3.json() callback is working and does the following :
   - The tectonic plate data is passed to the geoJSON() layer
   - The geoJSON() layer adds color and width to the tectonic plate lines
   - The tectonic layer group variable is added to the map
@@ -22,7 +22,6 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 <i>Figure 1:Tectonic Plate Data</i>
 </p>
 
-
 <p align="center">  
 <img src="https://github.com/Tifarahani/Earthquake_map/blob/main/Resources/Images/Map_data_4_Earthquake.png"  width="70%" height="70%">
 </p>
@@ -31,6 +30,15 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 </p>
 
 ### Deliverable 2: Add Major Earthquake Data
+
+- In second deliverable the major earthquake data is added as a third layer group and the major earthquake data is added to the overlay object.
+- The d3.json() callback is working and does the following
+  -Sets the color and diameter of each earthquake.
+  - The major earthquake data is passed to the geoJSON() layer.
+The geoJSON() layer creates a circle for each major earthquake, and adds a popup for each circle to display the magnitude and location of the earthquake
+The major earthquake layer group variable is added to the map
+All the earthquake data and tectonic plate data are displayed on the map when the page loads and the datasets can be toggled on or off (5 pt)
+
 
 <p align="center">  
 <img src="https://github.com/Tifarahani/Earthquake_map/blob/main/Resources/Images/Map_data_2.png"  width="70%" height="70%">
