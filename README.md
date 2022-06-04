@@ -24,9 +24,8 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 <img src="https://github.com/Tifarahani/Earthquake_map/blob/main/Resources/Images/Map_data_4_Earthquake.png"  width="80%" height="80%">
 </p>
 <p align="center">  
-<i>Figure 2: OTU_ID bubble_chart</i>
+<i>Figure 2: Dark eathquake map</i>
 </p>
-
 
 ### Deliverable 2: Add Major Earthquake Data
 
