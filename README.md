@@ -8,8 +8,9 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 ---
 ### Resources
 - JavaScript
--  Leaflet.js
--  geoJSON 
+- Virtual Studio Code 
+- Leaflet.js
+- geoJSON 
 
 ### Deliverable 1: Add Tectonic Plate Data
 
