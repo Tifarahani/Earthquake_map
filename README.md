@@ -49,7 +49,7 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 ### Deliverable 3: Add an Additional Map
 - In third  deliverable  using JavaScript and Leaflet.js knowlwdge we add a third map style to your earthquake map
 <p align="center">  
-<img src="https://github.com/Tifarahani/Earthquake_map/blob/main/Resources/Images/Map_data_3.png"  width="70%" height="70%">
+<img src="https://github.com/Tifarahani/Earthquake_map/blob/main/Resources/Images/Map_data_4_.png"  width="70%" height="70%">
 </p>
 <p align="center">  
 <i>Figure 4: Additional Map</i>
