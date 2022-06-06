@@ -6,7 +6,7 @@ The purpose of this project is to gather earthquake GeoJSON data from the USGS A
 The earthquake data is represented on the maps in relation to the tectonic plates’ location on the earth, and according to each event's magnitude.
 
 ---
-### Deliverable 1: Add Tectonic Plate Data
+#### Deliverable 1: Add Tectonic Plate Data
 
 
 - In this Deliverable the tectonic plate data is added as a second layer group and tectonic plate data is added to the overlay object.The d3.json() callback is working and does the following :
