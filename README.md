@@ -29,7 +29,7 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 <i>Figure 2: Dark eathquake map</i>
 </p>
 
-### Deliverable 2: Add Major Earthquake Data
+#### Deliverable 2: Add Major Earthquake Data
 
 - In second deliverable the major earthquake data is added as a third layer group and the major earthquake data is added to the overlay object.
 - The d3.json() callback is working and does the following
@@ -46,7 +46,7 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 <i>Figure 3: Major Earthquake Data</i>
 </p>
 
-### Deliverable 3: Add an Additional Map
+#### Deliverable 3: Add an Additional Map
 - In third  deliverable  using JavaScript and Leaflet.js knowlwdge we add a third map style to your earthquake map
 <p align="center">  
 <img src="https://github.com/Tifarahani/Earthquake_map/blob/main/Resources/Images/Map_data_4_.png"  width="70%" height="70%">
@@ -57,7 +57,7 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 
 ---
 
-### Resources
+#### Resources
 - JavaScript
 - Virtual Studio Code 
 - HTML
